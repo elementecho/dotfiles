@@ -1,0 +1,10 @@
+cask_args appdir: "/Applications"
+tap "caskroom/cask"
+cask "google-chrome"
+cask "etcher"
+cask "spotify"
+cask "tunnelblick"
+cask "qbittorrent"
+cask "tunnelbear"
+cask "google-earth-pro"
+
